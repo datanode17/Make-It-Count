@@ -1,4 +1,4 @@
-# Make It Count
+# Make It Count: Enhanced Layout Guidance for Precise Object Counting in Diffusion Models
 
 **Training‑Free Layout Guidance for Accurate Object Counting in Diffusion Models**
 
