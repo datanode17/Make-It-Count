@@ -1,0 +1,353 @@
+model,category,gt_count,pred,abs_err
+Ours,balloons,3,9,6
+Ours,balloons,5,9,4
+Ours,balloons,7,12,5
+Ours,balloons,9,9,0
+Ours,balloons,11,12,1
+Ours,balloons,13,32,19
+Ours,balloons,15,22,7
+Ours,balloons,17,24,7
+Ours,cars,3,3,0
+Ours,cars,5,4,1
+Ours,cars,7,4,3
+Ours,cars,9,3,6
+Ours,cars,11,23,12
+Ours,cars,13,22,9
+Ours,cars,15,20,5
+Ours,cars,17,25,8
+Ours,cats,3,4,1
+Ours,cats,5,4,1
+Ours,cats,7,6,1
+Ours,cats,9,9,0
+Ours,cats,11,16,5
+Ours,cats,13,20,7
+Ours,cats,15,10,5
+Ours,cats,17,19,2
+Ours,chicks,3,3,0
+Ours,chicks,5,3,2
+Ours,chicks,7,9,2
+Ours,chicks,9,9,0
+Ours,chicks,11,9,2
+Ours,chicks,13,17,4
+Ours,chicks,15,13,2
+Ours,chicks,17,15,2
+Ours,clocks,3,2,1
+Ours,clocks,5,8,3
+Ours,clocks,7,8,1
+Ours,clocks,9,9,0
+Ours,clocks,11,12,1
+Ours,clocks,13,16,3
+Ours,clocks,15,16,1
+Ours,clocks,17,18,1
+Ours,donuts,3,1,2
+Ours,donuts,5,5,0
+Ours,donuts,7,8,1
+Ours,donuts,9,9,0
+Ours,donuts,11,4,7
+Ours,donuts,13,0,13
+Ours,donuts,15,0,15
+Ours,donuts,17,23,6
+Ours,eggs,3,1,2
+Ours,eggs,5,5,0
+Ours,eggs,7,9,2
+Ours,eggs,9,7,2
+Ours,eggs,11,3,8
+Ours,eggs,13,3,10
+Ours,eggs,15,0,15
+Ours,eggs,17,0,17
+Ours,horses,3,5,2
+Ours,horses,5,3,2
+Ours,horses,7,12,5
+Ours,horses,9,9,0
+Ours,horses,11,16,5
+Ours,horses,13,20,7
+Ours,horses,15,0,15
+Ours,horses,17,20,3
+Ours,onions,3,7,4
+Ours,onions,5,6,1
+Ours,onions,7,10,3
+Ours,onions,9,8,1
+Ours,onions,11,12,1
+Ours,onions,13,17,4
+Ours,onions,15,7,8
+Ours,onions,17,3,14
+Ours,chairs,3,3,0
+Ours,chairs,5,4,1
+Ours,chairs,7,9,2
+Ours,chairs,9,10,1
+Ours,chairs,11,12,1
+Ours,chairs,13,13,0
+Ours,chairs,15,19,4
+Ours,chairs,17,20,3
+Ours,apples,3,4,1
+Ours,apples,5,7,2
+Ours,apples,7,8,1
+Ours,apples,9,15,6
+Ours,apples,11,11,0
+Ours,apples,13,5,8
+Ours,apples,15,17,2
+Ours,apples,17,20,3
+Layout Control,balloons,3,4,1
+Layout Control,balloons,5,3,2
+Layout Control,balloons,7,11,4
+Layout Control,balloons,9,29,20
+Layout Control,balloons,11,17,6
+Layout Control,balloons,13,21,8
+Layout Control,balloons,15,5,10
+Layout Control,balloons,17,21,4
+Layout Control,cars,3,0,3
+Layout Control,cars,5,0,5
+Layout Control,cars,7,0,7
+Layout Control,cars,9,0,9
+Layout Control,cars,11,0,11
+Layout Control,cars,13,0,13
+Layout Control,cars,15,0,15
+Layout Control,cars,17,0,17
+Layout Control,cats,3,3,0
+Layout Control,cats,5,3,2
+Layout Control,cats,7,5,2
+Layout Control,cats,9,1,8
+Layout Control,cats,11,0,11
+Layout Control,cats,13,0,13
+Layout Control,cats,15,0,15
+Layout Control,cats,17,0,17
+Layout Control,chicks,3,0,3
+Layout Control,chicks,5,0,5
+Layout Control,chicks,7,0,7
+Layout Control,chicks,9,0,9
+Layout Control,chicks,11,0,11
+Layout Control,chicks,13,0,13
+Layout Control,chicks,15,0,15
+Layout Control,chicks,17,0,17
+Layout Control,clocks,3,2,1
+Layout Control,clocks,5,1,4
+Layout Control,clocks,7,11,4
+Layout Control,clocks,9,12,3
+Layout Control,clocks,11,11,0
+Layout Control,clocks,13,0,13
+Layout Control,clocks,15,11,4
+Layout Control,clocks,17,9,8
+Layout Control,donuts,3,2,1
+Layout Control,donuts,5,2,3
+Layout Control,donuts,7,4,3
+Layout Control,donuts,9,4,5
+Layout Control,donuts,11,3,8
+Layout Control,donuts,13,5,8
+Layout Control,donuts,15,4,11
+Layout Control,donuts,17,4,13
+Layout Control,eggs,3,0,3
+Layout Control,eggs,5,0,5
+Layout Control,eggs,7,0,7
+Layout Control,eggs,9,0,9
+Layout Control,eggs,11,0,11
+Layout Control,eggs,13,0,13
+Layout Control,eggs,15,0,15
+Layout Control,eggs,17,0,17
+Layout Control,horses,3,3,0
+Layout Control,horses,5,3,2
+Layout Control,horses,7,2,5
+Layout Control,horses,9,3,6
+Layout Control,horses,11,2,9
+Layout Control,horses,13,2,11
+Layout Control,horses,15,2,13
+Layout Control,horses,17,2,15
+Layout Control,onions,3,0,3
+Layout Control,onions,5,3,2
+Layout Control,onions,7,1,6
+Layout Control,onions,9,2,7
+Layout Control,onions,11,1,10
+Layout Control,onions,13,0,13
+Layout Control,onions,15,2,13
+Layout Control,onions,17,0,17
+Layout Control,chairs,3,3,0
+Layout Control,chairs,5,2,3
+Layout Control,chairs,7,2,5
+Layout Control,chairs,9,2,7
+Layout Control,chairs,11,2,9
+Layout Control,chairs,13,4,9
+Layout Control,chairs,15,3,12
+Layout Control,chairs,17,2,15
+Layout Control,apples,3,3,0
+Layout Control,apples,5,4,1
+Layout Control,apples,7,0,7
+Layout Control,apples,9,5,4
+Layout Control,apples,11,2,9
+Layout Control,apples,13,0,13
+Layout Control,apples,15,5,10
+Layout Control,apples,17,1,16
+Attend Excite,balloons,3,3,0
+Attend Excite,balloons,5,5,0
+Attend Excite,balloons,7,4,3
+Attend Excite,balloons,9,8,1
+Attend Excite,balloons,11,2,9
+Attend Excite,balloons,13,11,2
+Attend Excite,balloons,15,4,11
+Attend Excite,balloons,17,1,16
+Attend Excite,cars,3,0,3
+Attend Excite,cars,5,0,5
+Attend Excite,cars,7,0,7
+Attend Excite,cars,9,0,9
+Attend Excite,cars,11,0,11
+Attend Excite,cars,13,0,13
+Attend Excite,cars,15,0,15
+Attend Excite,cars,17,0,17
+Attend Excite,cats,3,3,0
+Attend Excite,cats,5,4,1
+Attend Excite,cats,7,2,5
+Attend Excite,cats,9,6,3
+Attend Excite,cats,11,8,3
+Attend Excite,cats,13,3,10
+Attend Excite,cats,15,0,15
+Attend Excite,cats,17,0,17
+Attend Excite,chicks,3,0,3
+Attend Excite,chicks,5,0,5
+Attend Excite,chicks,7,0,7
+Attend Excite,chicks,9,0,9
+Attend Excite,chicks,11,0,11
+Attend Excite,chicks,13,0,13
+Attend Excite,chicks,15,0,15
+Attend Excite,chicks,17,0,17
+Attend Excite,clocks,3,2,1
+Attend Excite,clocks,5,2,3
+Attend Excite,clocks,7,6,1
+Attend Excite,clocks,9,1,8
+Attend Excite,clocks,11,6,5
+Attend Excite,clocks,13,32,19
+Attend Excite,clocks,15,17,2
+Attend Excite,clocks,17,12,5
+Attend Excite,donuts,3,5,2
+Attend Excite,donuts,5,8,3
+Attend Excite,donuts,7,6,1
+Attend Excite,donuts,9,12,3
+Attend Excite,donuts,11,0,11
+Attend Excite,donuts,13,10,3
+Attend Excite,donuts,15,10,5
+Attend Excite,donuts,17,0,17
+Attend Excite,eggs,3,0,3
+Attend Excite,eggs,5,0,5
+Attend Excite,eggs,7,0,7
+Attend Excite,eggs,9,0,9
+Attend Excite,eggs,11,0,11
+Attend Excite,eggs,13,0,13
+Attend Excite,eggs,15,0,15
+Attend Excite,eggs,17,0,17
+Attend Excite,horses,3,1,2
+Attend Excite,horses,5,3,2
+Attend Excite,horses,7,4,3
+Attend Excite,horses,9,2,7
+Attend Excite,horses,11,3,8
+Attend Excite,horses,13,2,11
+Attend Excite,horses,15,5,10
+Attend Excite,horses,17,5,12
+Attend Excite,onions,3,0,3
+Attend Excite,onions,5,2,3
+Attend Excite,onions,7,3,4
+Attend Excite,onions,9,0,9
+Attend Excite,onions,11,0,11
+Attend Excite,onions,13,0,13
+Attend Excite,onions,15,1,14
+Attend Excite,onions,17,0,17
+Attend Excite,chairs,3,2,1
+Attend Excite,chairs,5,0,5
+Attend Excite,chairs,7,4,3
+Attend Excite,chairs,9,2,7
+Attend Excite,chairs,11,0,11
+Attend Excite,chairs,13,0,13
+Attend Excite,chairs,15,4,11
+Attend Excite,chairs,17,2,15
+Attend Excite,apples,3,2,1
+Attend Excite,apples,5,6,1
+Attend Excite,apples,7,7,0
+Attend Excite,apples,9,0,9
+Attend Excite,apples,11,6,5
+Attend Excite,apples,13,5,8
+Attend Excite,apples,15,6,9
+Attend Excite,apples,17,5,12
+SD‑v1.5,balloons,3,5,2
+SD‑v1.5,balloons,5,2,3
+SD‑v1.5,balloons,7,7,0
+SD‑v1.5,balloons,9,10,1
+SD‑v1.5,balloons,11,1,10
+SD‑v1.5,balloons,13,3,10
+SD‑v1.5,balloons,15,11,4
+SD‑v1.5,balloons,17,0,17
+SD‑v1.5,cars,3,0,3
+SD‑v1.5,cars,5,0,5
+SD‑v1.5,cars,7,0,7
+SD‑v1.5,cars,9,0,9
+SD‑v1.5,cars,11,0,11
+SD‑v1.5,cars,13,0,13
+SD‑v1.5,cars,15,0,15
+SD‑v1.5,cars,17,1,16
+SD‑v1.5,cats,3,1,2
+SD‑v1.5,cats,5,5,0
+SD‑v1.5,cats,7,2,5
+SD‑v1.5,cats,9,0,9
+SD‑v1.5,cats,11,0,11
+SD‑v1.5,cats,13,0,13
+SD‑v1.5,cats,15,1,14
+SD‑v1.5,cats,17,0,17
+SD‑v1.5,chicks,3,0,3
+SD‑v1.5,chicks,5,0,5
+SD‑v1.5,chicks,7,0,7
+SD‑v1.5,chicks,9,1,8
+SD‑v1.5,chicks,11,0,11
+SD‑v1.5,chicks,13,0,13
+SD‑v1.5,chicks,15,0,15
+SD‑v1.5,chicks,17,0,17
+SD‑v1.5,clocks,3,3,0
+SD‑v1.5,clocks,5,3,2
+SD‑v1.5,clocks,7,4,3
+SD‑v1.5,clocks,9,11,2
+SD‑v1.5,clocks,11,19,8
+SD‑v1.5,clocks,13,2,11
+SD‑v1.5,clocks,15,5,10
+SD‑v1.5,clocks,17,24,7
+SD‑v1.5,donuts,3,0,3
+SD‑v1.5,donuts,5,6,1
+SD‑v1.5,donuts,7,7,0
+SD‑v1.5,donuts,9,4,5
+SD‑v1.5,donuts,11,4,7
+SD‑v1.5,donuts,13,0,13
+SD‑v1.5,donuts,15,6,9
+SD‑v1.5,donuts,17,4,13
+SD‑v1.5,eggs,3,0,3
+SD‑v1.5,eggs,5,0,5
+SD‑v1.5,eggs,7,0,7
+SD‑v1.5,eggs,9,0,9
+SD‑v1.5,eggs,11,0,11
+SD‑v1.5,eggs,13,0,13
+SD‑v1.5,eggs,15,0,15
+SD‑v1.5,eggs,17,0,17
+SD‑v1.5,horses,3,3,0
+SD‑v1.5,horses,5,3,2
+SD‑v1.5,horses,7,4,3
+SD‑v1.5,horses,9,6,3
+SD‑v1.5,horses,11,4,7
+SD‑v1.5,horses,13,3,10
+SD‑v1.5,horses,15,1,14
+SD‑v1.5,horses,17,1,16
+SD‑v1.5,onions,3,0,3
+SD‑v1.5,onions,5,4,1
+SD‑v1.5,onions,7,4,3
+SD‑v1.5,onions,9,1,8
+SD‑v1.5,onions,11,0,11
+SD‑v1.5,onions,13,1,12
+SD‑v1.5,onions,15,1,14
+SD‑v1.5,onions,17,4,13
+SD‑v1.5,chairs,3,3,0
+SD‑v1.5,chairs,5,2,3
+SD‑v1.5,chairs,7,0,7
+SD‑v1.5,chairs,9,0,9
+SD‑v1.5,chairs,11,1,10
+SD‑v1.5,chairs,13,3,10
+SD‑v1.5,chairs,15,0,15
+SD‑v1.5,chairs,17,0,17
+SD‑v1.5,apples,3,2,1
+SD‑v1.5,apples,5,2,3
+SD‑v1.5,apples,7,14,7
+SD‑v1.5,apples,9,3,6
+SD‑v1.5,apples,11,9,2
+SD‑v1.5,apples,13,5,8
+SD‑v1.5,apples,15,0,15
+SD‑v1.5,apples,17,6,11
