@@ -22,8 +22,8 @@ you can reduce counting Mean Absolute Error (MAE) by ~12 % and more than doubl
 
 ```text
 .
-├── makeitcount.ipynb        # Demo & evaluation notebook
-├── transformer_2d.py        # 2D transformer block utilities
+├── makeitcount.ipynb        # Demo notebook
+├── transformer_2d.py        # 2D transformer block utilities (contains forward Guidance Code)
 ├── unet_2d_blocks.py        # U‑Net block definitions
 ├── unet_2d_condition.py     # Cross‑attention hooks & guidance code
 └── README.md                # This file
